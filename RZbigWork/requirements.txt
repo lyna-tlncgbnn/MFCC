@@ -1,0 +1,9 @@
+
+librosa
+torch
+sklearn
+matplotlib
+numpy
+pandas
+numba
+easygui
