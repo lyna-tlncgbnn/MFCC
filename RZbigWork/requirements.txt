@@ -1,4 +1,3 @@
-soundfile
 librosa
 torch
 sklearn
